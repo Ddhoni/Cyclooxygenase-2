@@ -1,2 +1,2 @@
 # Cyclooxygenase-2
-This project is the final project of the BioInformatics course.
+This project is the final project of the BioInformatics course (SD4122).
